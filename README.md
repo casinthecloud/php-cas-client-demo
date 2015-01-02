@@ -1,4 +1,4 @@
-PHP webapp protected by the phpCAS client
+PHP webapp protected by the phpCAS client (https://github.com/Jasig/phpCAS)
 ==
 
 ![English](https://www.casinthecloud.com/img/other/flag_en.png)
