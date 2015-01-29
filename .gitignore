@@ -1,2 +1,6 @@
 vendor/
 .env
+.classpath
+.settings/
+.project
+.buildpath

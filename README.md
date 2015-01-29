@@ -3,7 +3,7 @@ PHP webapp protected by the phpCAS client (https://github.com/Jasig/phpCAS)
 
 ![English](https://www.casinthecloud.com/img/other/flag_en.png)
 
-PHP demo using the phpCAS client (v1.3.3) to protect a web application.
+PHP demo using the phpCAS client (v1.3.3) to protect a web application. Install the dependency using Composer: `php composer.phar install`.
 
 Use your favourite xAMP tool with **www** as the document root to start the webapp on **http://localhost**. The url 'protected/index.php' is protected and should trigger a CAS authentication.
 
@@ -22,7 +22,7 @@ and the following service:
 
 ![Français](https://www.casinthecloud.com/img/other/flag_fr.png)
 
-Démo PHP utilisant le client phpCAS (v1.3.3) pour protéger une application web.
+Démo PHP utilisant le client phpCAS (v1.3.3) pour protéger une application web. Installez la dépendance via Composer : `php composer.phar install`.
 
 Utilisez votre outil xAMP favori avec **www** comme répertoire de base pour lancer le site web sur **http://localhost**. L'url 'protected/index.php' est protégée et déclenche une authentification CAS.
 

@@ -1,5 +1,5 @@
 <?php
-	require_once $_SERVER["DOCUMENT_ROOT"] . '../libs/CAS-1.3.3/CAS.php';
+	require_once $_SERVER["DOCUMENT_ROOT"] . '../vendor/autoload.php';
 
 	// #### change with your own CAS in the cloud server ####
 	//phpCAS::setDebug();
