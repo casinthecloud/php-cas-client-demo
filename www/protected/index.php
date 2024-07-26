@@ -16,8 +16,7 @@
 		<ul class="nav nav-tabs">
 			<li><a href="/index.php">Call the /index.php page</a></li>
 			<li class="active"><a href="/protected/index.php">You are on the /protected/index.php page</a></li>
-			<!-- #### change with your own CAS server and your host name #### -->
-			<li><a href="http://localhost:8888/cas/logout?service=http://localhost">Call the CAS logout</a></li>
+			<li><a href="https://localhost:8443/cas/logout?service=http://localhost:8000">Call the CAS logout</a></li>
 		</ul>
 		<h3>
 			<p>User: <?php echo phpCAS::getUser(); ?></p>
